@@ -5,4 +5,4 @@ echo.
 
 jupyter notebook
 
-break
+pause
