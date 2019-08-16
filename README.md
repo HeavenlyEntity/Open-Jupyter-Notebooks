@@ -11,3 +11,4 @@ This *.bat* file will open Jupyter notebooks where ever you place it.
 
 2. Extract it where you need Jupyter notebooks
 
+3. Double Click / run the file and Jupyter will open and your console will populate with the server status.
